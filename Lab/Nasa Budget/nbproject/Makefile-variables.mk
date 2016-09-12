@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=cppapplication_2
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/cppapplication_2
+CND_ARTIFACT_NAME_Debug=nasa_budget
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/nasa_budget
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=cppapplication2.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/cppapplication2.tar
+CND_PACKAGE_NAME_Debug=nasabudget.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/nasabudget.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=cppapplication_2
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/cppapplication_2
+CND_ARTIFACT_NAME_Release=nasa_budget
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/nasa_budget
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=cppapplication2.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/cppapplication2.tar
+CND_PACKAGE_NAME_Release=nasabudget.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/nasabudget.tar
 #
 # include compiler specific variables
 #
