@@ -1,5 +1,5 @@
 /* 
-   File:   main
+   File:   main1
    Author: Bo Abbott
    Created on September 14,2016, 1:30 PM
    Purpose:  Calculate the distance dropped in free fall.
