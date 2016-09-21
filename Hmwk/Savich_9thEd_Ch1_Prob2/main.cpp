@@ -1,8 +1,8 @@
 /* 
    File:   main
    Author: Bo Abbott
-   Created on September 14, 2016, 12:30 AM
-   Purpose:  Creates big "C" using input character
+   Created on September 14th, 2016, 1:30 PM
+   Purpose:  
  */
 
 //System Libraries

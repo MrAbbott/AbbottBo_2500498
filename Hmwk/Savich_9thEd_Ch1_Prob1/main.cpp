@@ -1,25 +1,36 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
- * File:   main.cpp
- * Author: Bo
- *
- * Created on September 21, 2016, 1:39 AM
+   File:   main
+   Author: Bo Abbott
+   Created on September 14, 2016, 12:30 PM
+   Purpose:  Add,Sub,Mult,Div,Mod
  */
 
-#include <cstdlib>
+//System Libraries
+#include <iostream>   //Input/Output objects
+using namespace std;  //Name-space used in the System Library
 
-using namespace std;
+//User Libraries
 
-/*
- * 
- */
+//Global Constants
+
+//Function prototypes
+
+//Execution Begins Here!
 int main(int argc, char** argv) {
+    //Declaration of Variables
+    int op1,op2;
+    
+    //Input values
+    cout<<"Input 2 integer values to Add,Sub,Mult,Div,Mod"<<endl;
+    cin>>op1>>op2;
+    
+    //Display Output
+    cout<<op1+op2<<"="<<op1<<"+"<<op2<<endl;
+    cout<<op1-op2<<"="<<op1<<"-"<<op2<<endl;
+    cout<<op1*op2<<"="<<op1<<"*"<<op2<<endl;
+    cout<<op1/op2<<"="<<op1<<"/"<<op2<<endl;
+    cout<<op1%op2<<"="<<op1<<"%"<<op2<<endl;
 
+    //Exit Program
     return 0;
 }
-
