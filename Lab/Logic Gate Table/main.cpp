@@ -1,7 +1,7 @@
 /* 
    File:   main
-   Author: Dr. Mark E. Lehr
-   Created on September 26th, 2016, 9:41 AM
+   Author: Bo Abbott
+   Created on September 26th, 2016, 10:20 AM
    Purpose:  Display 13 columns of the truth table
  */
 
@@ -59,9 +59,10 @@ int main(int argc, char** argv) {
     cout<<(!(x&&y)?'T':'F')<<"      ";
     cout<<(!x||!y?'T':'F')<<"       ";
     cout<<(!(x||y)?'T':'F')<<"       ";
-    cout<<(!x&&!y?'T':'F')<<"        ";
+    cout<<(!x&&!y?'T':'F');
     cout<<endl;
     
+    //input
     x=false;
     y=true;
     // display third row 
