@@ -62,10 +62,11 @@ int main(int argc, char** argv) {
     cout<<(!x&&!y?'T':'F');
     cout<<endl;
     
-    //input
+    //input values for third row of truth table
     x=false;
     y=true;
-    // display third row 
+   
+    // display third row of the truth table
     cout<<(x?'T':'F')<<" ";
     cout<<(y?'T':'F')<<"  ";
     cout<<(!x?'T':'F')<<"  ";
@@ -78,11 +79,13 @@ int main(int argc, char** argv) {
     cout<<(!(x&&y)?'T':'F')<<"      ";
     cout<<(!x||!y?'T':'F')<<"       ";
     cout<<(!(x||y)?'T':'F')<<"       ";
-    cout<<(!x&&!y?'T':'F')<<"        ";
+    cout<<(!x&&!y?'T':'F');
     cout<<endl;
-    
+   
+    //input valuse for fourth row of truthn table
     y=false;
-    //display forth row
+    
+    //display forth row of the truth table
     cout<<(x?'T':'F')<<" ";
     cout<<(y?'T':'F')<<"  ";
     cout<<(!x?'T':'F')<<"  ";
@@ -95,7 +98,7 @@ int main(int argc, char** argv) {
     cout<<(!(x&&y)?'T':'F')<<"      ";
     cout<<(!x||!y?'T':'F')<<"       ";
     cout<<(!(x||y)?'T':'F')<<"       ";
-    cout<<(!x&&!y?'T':'F')<<"        ";
+    cout<<(!x&&!y?'T':'F');
     cout<<endl;        
             
             
